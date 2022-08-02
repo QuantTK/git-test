@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=store01asa;AccountKey=oAoZqkuMuua8oPKP2N2lk0ZTi38d5JYaVXtFTnK+1BD8YWsL9eTEz0W3tPH+frpmrF4WCxOd/OZS+AStQWRBfQ==;EndpointSuffix=core.windows.net",
+    "QueueConnectionString": "DefaultEndpointsProtocol=https;AccountName=store01asa;AccountKey=oAoZqkuMuua8oPKP2N2lk0ZTi38d5JYaVXtFTnK+1BD8YWsL9eTEz0W3tPH+frpmrF4WCxOd/OZS+AStQWRBfQ==;EndpointSuffix=core.windows.net",
+    "STORAGE_CONTAINER_NAME": "Investec_Next_Logs_Container",
+    "Blobconnectionstring": "DefaultEndpointsProtocol=https;AccountName=store01asa;AccountKey=oAoZqkuMuua8oPKP2N2lk0ZTi38d5JYaVXtFTnK+1BD8YWsL9eTEz0W3tPH+frpmrF4WCxOd/OZS+AStQWRBfQ==;EndpointSuffix=core.windows.net"
+    
+}}
+
+    
